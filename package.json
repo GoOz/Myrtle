@@ -2,9 +2,10 @@
     "name": "myrtle",
     "description": "The modified default personal blogging theme for Ghost. Beautiful, minimal and responsive.",
     "demo": "http://blog.foojin.com",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "engines": {
-        "ghost": ">=1.2.0"
+        "ghost": ">=2.0.0",
+        "ghost-api": "v2"
     },
     "license": "MIT",
     "screenshots": {
