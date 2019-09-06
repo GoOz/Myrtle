@@ -1,0 +1,16 @@
+/* Print styles
+/* ---------------------------------------------------------- */
+@import "global.css";
+
+.site-header,
+.post-full-meta,
+.post-full-footer,
+.read-next,
+.floating-header,
+.site-footer {
+    display: none;
+}
+
+.print {
+  display: block;
+}

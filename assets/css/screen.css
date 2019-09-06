@@ -32,6 +32,9 @@ body {
     background: var(--whitegrey);
 }
 
+.print {
+    display: none;
+}
 
 .img {
     display: block;
